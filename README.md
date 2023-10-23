@@ -1,2 +1,2 @@
-# TableHash
-Ce code est un TP d'Algo en licence 3 Informatique.
+# MotdepasseGen
+Ce code génére un mot de passe aléatoire et le stock dans un fichier.txt.
